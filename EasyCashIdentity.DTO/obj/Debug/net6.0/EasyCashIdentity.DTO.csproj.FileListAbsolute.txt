@@ -1,0 +1,14 @@
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\bin\Debug\net6.0\EasyCashIdentity.DTO.deps.json
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\bin\Debug\net6.0\EasyCashIdentity.DTO.runtimeconfig.json
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\bin\Debug\net6.0\EasyCashIdentity.DTO.dll
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\bin\Debug\net6.0\EasyCashIdentity.DTO.pdb
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\obj\Debug\net6.0\EasyCashIdentity.DTO.csproj.AssemblyReference.cache
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\obj\Debug\net6.0\EasyCashIdentity.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\obj\Debug\net6.0\EasyCashIdentity.DTO.AssemblyInfoInputs.cache
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\obj\Debug\net6.0\EasyCashIdentity.DTO.AssemblyInfo.cs
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\obj\Debug\net6.0\EasyCashIdentity.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\obj\Debug\net6.0\EasyCashIdentity.DTO.dll
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\obj\Debug\net6.0\refint\EasyCashIdentity.DTO.dll
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\obj\Debug\net6.0\EasyCashIdentity.DTO.pdb
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\obj\Debug\net6.0\EasyCashIdentity.DTO.genruntimeconfig.cache
+C:\Users\ogune\Desktop\DEV-TOOLS\PROJECTS\EasyCashIdentity\EasyCashIdentity\EasyCashIdentity.DTO\obj\Debug\net6.0\ref\EasyCashIdentity.DTO.dll
