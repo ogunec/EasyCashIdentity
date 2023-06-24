@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace EasyCashIdentity.DAL.Concrete
 {
-    public class Context : IdentityDbContext
+    public class Context : IdentityDbContext<AppUser, AppRole, int>
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
